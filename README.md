@@ -2,13 +2,15 @@
 
 # ImpulsaSoft
 
-### SaaS, AI &amp; Software Solutions — Huancayo, Perú 🇵🇪
+<a href="https://impulsasoft.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2800&pause=1200&color=6B7280&center=true&vCenter=true&width=560&lines=SaaS+multi-tenant+%C2%B7+E-commerce+%C2%B7+Puntos+de+venta;Facturaci%C3%B3n+electr%C3%B3nica+SUNAT+%C2%B7+Chatbots+con+IA;De+la+idea+a+producci%C3%B3n%2C+full-stack" alt="SaaS multi-tenant · E-commerce · Puntos de venta · Facturación electrónica SUNAT · Chatbots con IA" />
+</a>
 
-Construimos productos de software a medida — SaaS multi-tenant, e-commerce,
-puntos de venta, facturación electrónica SUNAT e integraciones con IA —
-llevados de la idea a producción.
+<sub>Huancayo, Perú 🇵🇪</sub>
 
-[![Website](https://img.shields.io/badge/impulsasoft.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://impulsasoft.com)
+<br><br>
+
+[![Website](https://img.shields.io/badge/impulsasoft.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://impulsasoft.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51936578570)
 
 </div>
@@ -68,11 +70,6 @@ llevados de la idea a producción.
     <td>Tienda de ropa online</td>
     <td><a href="https://telar.impulsasoft.com">telar.impulsasoft.com</a></td>
   </tr>
-  <tr>
-    <td><strong>Orihuela 2026</strong></td>
-    <td>Sitio de campaña política con chatbot de IA integrado</td>
-    <td><a href="https://fernandoorihuela.pe">fernandoorihuela.pe</a></td>
-  </tr>
 </table>
 
 <br>
@@ -107,7 +104,9 @@ llevados de la idea a producción.
 <br>
 
 <div align="center">
+<sub>
 
 **[impulsasoft.com](https://impulsasoft.com)** · WhatsApp [+51 936 578 570](https://wa.me/51936578570)
 
+</sub>
 </div>
