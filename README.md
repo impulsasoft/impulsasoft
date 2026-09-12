@@ -21,7 +21,7 @@ Construyo productos de software a medida: SaaS multi-tenant, e-commerce, sistema
 | **AgentIA** | SaaS multi-tenant de chatbots con IA para WhatsApp/web | [agentia.impulsasoft.com](https://agentia.impulsasoft.com) |
 | **SPLANA** | Tienda online de calzado multimarca (Huancayo) | [splana.impulsasoft.com](https://splana.impulsasoft.com) |
 | **Orihuela 2026** | Sitio de campaña política con chatbot integrado | [fernandoorihuela.pe](https://fernandoorihuela.pe) |
-| **Telar** | Tienda de ropa online | [telar.pe](https://telar.pe) |
+| **Telar** | Tienda de ropa online | [telar.impulsasoft.com](https://telar.impulsasoft.com) |
 | **TuCajaPro** | Sistema de punto de venta + facturación | [tucajapro.com](https://tucajapro.com) |
 | **Cambicash** | Plataforma de casa de cambio digital | [cambicash.com](https://cambicash.com) |
 
@@ -37,6 +37,7 @@ Construyo productos de software a medida: SaaS multi-tenant, e-commerce, sistema
 
 - 🏗️ [amara-constructora](https://github.com/impulsasoft/amara-constructora) — sitio corporativo (Astro)
 - 💱 [letrero-cambio](https://github.com/impulsasoft/letrero-cambio) — letrero digital de tipo de cambio en tiempo real (React + Firebase)
+- 👕 [telar-tiendropa](https://github.com/impulsasoft/telar-tiendropa) — tienda de ropa online (Next.js + Prisma)
 
 ---
 
