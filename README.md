@@ -1,45 +1,113 @@
-# 🚀 ImpulsaSoft
+<div align="center">
 
-**SaaS, AI & Software Solutions — Huancayo, Perú 🇵🇪**
+# ImpulsaSoft
 
-Construyo productos de software a medida: SaaS multi-tenant, e-commerce, sistemas de punto de venta, facturación electrónica SUNAT y asistentes con IA. Full-stack, de la idea a producción.
+### SaaS, AI &amp; Software Solutions — Huancayo, Perú 🇵🇪
 
-🌐 [impulsasoft.com](https://impulsasoft.com)
+Construimos productos de software a medida — SaaS multi-tenant, e-commerce,
+puntos de venta, facturación electrónica SUNAT e integraciones con IA —
+llevados de la idea a producción.
 
----
+[![Website](https://img.shields.io/badge/impulsasoft.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://impulsasoft.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51936578570)
 
-### 🛠️ Stack
+</div>
 
-`TypeScript` · `Next.js` · `React` · `Node.js` · `NestJS` · `Express` · `Prisma` · `MySQL` · `PostgreSQL` · `Tailwind CSS` · `Astro`
+<br>
 
----
+## Stack
 
-### 📦 Productos en producción
+<div align="center">
 
-| Producto | Descripción | Enlace |
-|---|---|---|
-| **AgentIA** | SaaS multi-tenant de chatbots con IA para WhatsApp/web | [agentia.impulsasoft.com](https://agentia.impulsasoft.com) |
-| **Orihuela 2026** | Sitio de campaña política con chatbot integrado | [fernandoorihuela.pe](https://fernandoorihuela.pe) |
-| **Telar** | Tienda de ropa online | [telar.impulsasoft.com](https://telar.impulsasoft.com) |
-| **TuCajaPro** | Sistema de punto de venta + facturación | [tucajapro.com](https://tucajapro.com) |
-| **Cambicash** | Plataforma de casa de cambio digital | [cambicash.com](https://cambicash.com) |
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### 💼 Otros proyectos
+</div>
 
-- **ImpulsaFact** — SaaS de facturación electrónica SUNAT (multi-empresa, PDF + XML UBL)
-- **San Marzano** — Plataforma de pedidos online para restaurantes
-- **Academia Intranet** — Sistema académico multi-tenant con roles
+<br>
 
----
+## Productos en producción
 
-### 📌 Repos públicos destacados
+<table>
+  <tr>
+    <th align="left">Producto</th>
+    <th align="left">Descripción</th>
+    <th align="left">Sitio</th>
+  </tr>
+  <tr>
+    <td><strong>AgentIA</strong></td>
+    <td>SaaS multi-tenant de chatbots con IA para WhatsApp y web</td>
+    <td><a href="https://agentia.impulsasoft.com">agentia.impulsasoft.com</a></td>
+  </tr>
+  <tr>
+    <td><strong>ImpulsaFact</strong></td>
+    <td>SaaS de facturación electrónica SUNAT — multi-empresa, PDF + XML UBL</td>
+    <td><a href="https://facturacion.impulsasoft.com">facturacion.impulsasoft.com</a></td>
+  </tr>
+  <tr>
+    <td><strong>TuCajaPro</strong></td>
+    <td>Sistema de punto de venta + facturación</td>
+    <td><a href="https://tucajapro.com">tucajapro.com</a></td>
+  </tr>
+  <tr>
+    <td><strong>Cambicash</strong></td>
+    <td>Plataforma de casa de cambio digital</td>
+    <td><a href="https://cambicash.com">cambicash.com</a></td>
+  </tr>
+  <tr>
+    <td><strong>Telar</strong></td>
+    <td>Tienda de ropa online</td>
+    <td><a href="https://telar.impulsasoft.com">telar.impulsasoft.com</a></td>
+  </tr>
+  <tr>
+    <td><strong>Orihuela 2026</strong></td>
+    <td>Sitio de campaña política con chatbot de IA integrado</td>
+    <td><a href="https://fernandoorihuela.pe">fernandoorihuela.pe</a></td>
+  </tr>
+</table>
 
-- 🏗️ [amara-constructora](https://github.com/impulsasoft/amara-constructora) — sitio corporativo (Astro)
-- 💱 [letrero-cambio](https://github.com/impulsasoft/letrero-cambio) — letrero digital de tipo de cambio en tiempo real (React + Firebase)
-- 👕 [telar-tiendropa](https://github.com/impulsasoft/telar-tiendropa) — tienda de ropa online (Next.js + Prisma)
+<br>
 
----
+## Otros proyectos
 
-### 📫 Contacto
+- **San Marzano** — plataforma de pedidos online para restaurantes
+- **Academia Intranet** — sistema académico multi-tenant con roles y permisos
 
-[impulsasoft.com](https://impulsasoft.com) · WhatsApp: +51 936 578 570
+<br>
+
+## Repos públicos destacados
+
+<table>
+  <tr>
+    <td>🏗️</td>
+    <td><a href="https://github.com/impulsasoft/amara-constructora"><strong>amara-constructora</strong></a></td>
+    <td>Sitio corporativo — Astro</td>
+  </tr>
+  <tr>
+    <td>👕</td>
+    <td><a href="https://github.com/impulsasoft/telar-tiendropa"><strong>telar-tiendropa</strong></a></td>
+    <td>Tienda de ropa online — Next.js + Prisma</td>
+  </tr>
+  <tr>
+    <td>💱</td>
+    <td><a href="https://github.com/impulsasoft/letrero-cambio"><strong>letrero-cambio</strong></a></td>
+    <td>Letrero digital de tipo de cambio en tiempo real — React + Firebase</td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+
+**[impulsasoft.com](https://impulsasoft.com)** · WhatsApp [+51 936 578 570](https://wa.me/51936578570)
+
+</div>
