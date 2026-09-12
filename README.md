@@ -22,14 +22,13 @@ Construyo productos de software a medida: SaaS multi-tenant, e-commerce, sistema
 | **SPLANA** | Tienda online de calzado multimarca (Huancayo) | [splana.impulsasoft.com](https://splana.impulsasoft.com) |
 | **Orihuela 2026** | Sitio de campaña política con chatbot integrado | [fernandoorihuela.pe](https://fernandoorihuela.pe) |
 | **Telar** | Tienda de ropa online | [telar.pe](https://telar.pe) |
+| **TuCajaPro** | Sistema de punto de venta + facturación | [tucajapro.com](https://tucajapro.com) |
+| **Cambicash** | Plataforma de casa de cambio digital | [cambicash.com](https://cambicash.com) |
 
 ### 💼 Otros proyectos
 
 - **ImpulsaFact** — SaaS de facturación electrónica SUNAT (multi-empresa, PDF + XML UBL)
-- **TuCajaPro** — Sistema de punto de venta + facturación
-- **Cambicash** — Plataforma de casa de cambio digital
 - **San Marzano** — Plataforma de pedidos online para restaurantes
-- **OrionTech** — Plataforma de inversiones crypto
 - **Academia Intranet** — Sistema académico multi-tenant con roles
 
 ---
