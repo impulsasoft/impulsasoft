@@ -19,7 +19,6 @@ Construyo productos de software a medida: SaaS multi-tenant, e-commerce, sistema
 | Producto | Descripción | Enlace |
 |---|---|---|
 | **AgentIA** | SaaS multi-tenant de chatbots con IA para WhatsApp/web | [agentia.impulsasoft.com](https://agentia.impulsasoft.com) |
-| **SPLANA** | Tienda online de calzado multimarca (Huancayo) | [splana.impulsasoft.com](https://splana.impulsasoft.com) |
 | **Orihuela 2026** | Sitio de campaña política con chatbot integrado | [fernandoorihuela.pe](https://fernandoorihuela.pe) |
 | **Telar** | Tienda de ropa online | [telar.impulsasoft.com](https://telar.impulsasoft.com) |
 | **TuCajaPro** | Sistema de punto de venta + facturación | [tucajapro.com](https://tucajapro.com) |
